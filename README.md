@@ -1,2 +1,2 @@
 # html-portfolio
-Basic porfolio
+Basic portfolio
